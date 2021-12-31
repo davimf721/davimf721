@@ -1,6 +1,6 @@
 ##Olá! Eu sou Davi Moreira Fuzatto
-- 🔭 Estou estudando no curso Cs50
-- 🌱 Atualmente estou aprendendo python e C/C++
+- 🔭 Estou estudando na Alura!
+- 🌱 Atualmente estou aprendendo JavaScript e React
 - 👯 Venho produzindo um software pra mudar o mundo!
 - 📫 Meu contate pelo email: davimoreiraf@gmail.com
 - 😄 Pronouns: ele/dele
