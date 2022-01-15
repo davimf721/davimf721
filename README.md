@@ -1,8 +1,8 @@
 ##Olá! Eu sou Davi Moreira Fuzatto
 - 🔭 Estou estudando na Alura!
-- 🌱 Atualmente estou aprendendo JavaScript e NodeJS
-- 👯 Venho produzindo um software pra mudar o mundo!
-- 📫 Meu contate pelo email: davimoreiraf@gmail.com
+- 🌱 Atualmente estou aprendendo Golang e Python
+- 👯 Procuro mudar o mundo desenvolvendo software
+- 📫 Meu contato pelo email: davimoreiraf@gmail.com
 - 😄 Pronouns: ele/dele
 
  <div>
