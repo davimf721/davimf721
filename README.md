@@ -1,6 +1,6 @@
 ##Olá! Eu sou Davi Moreira Fuzatto
 - 🔭 Estou estudando na Alura!
-- 🌱 Atualmente estou aprendendo Golang e Python
+- 🌱 Atualmente estou aprendendo Golang e banco de dados
 - 👯 Procuro mudar o mundo desenvolvendo software
 - 📫 Meu contato pelo email: davimoreiraf@gmail.com
 - 😄 Pronouns: ele/dele
