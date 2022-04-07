@@ -1,4 +1,4 @@
-##Olá! Eu sou Davi Moreira Fuzatto
+#Olá! Eu sou Davi Moreira Fuzatto
 - 🔭 Estou estudando na Alura!
 - 🌱 Atualmente estou aprendendo Golang e banco de dados
 - 👯 Procuro mudar o mundo desenvolvendo software
