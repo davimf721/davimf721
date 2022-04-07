@@ -1,5 +1,5 @@
-#Olá! Eu sou Davi Moreira Fuzatto
-- 🔭 Estou estudando na Alura!
+# Olá! Eu sou Davi Moreira Fuzatto
+- 🔭 Estou recentemente estudando programação na Alura!
 - 🌱 Atualmente estou aprendendo Golang e banco de dados
 - 👯 Procuro mudar o mundo desenvolvendo software
 - 📫 Meu contato pelo email: davimoreiraf@gmail.com
