@@ -1,23 +1,28 @@
-# Olá! Eu sou Davi Moreira Fuzatto
-- 🔭 Estou recentemente finalizando o ensino médio e pretendo fazer o curso e ciencia da computação na PUC!
-- 🌱 Atualmente estou aprendendo Golang
-- 👯 Procuro um dia mudar o mundo desenvolvendo software!
-- 📫 Meu contato pelo email: davimoreiraf@gmail.com
-- 😄 Pronouns: ele/dele
+<p>
+ 
+<img src="https://user-images.githubusercontent.com/64716204/168178024-b0ffdab9-89a0-4503-822a-cbc3926f3b2a.png" alt="CL Thumb" border="0" width="100%">
+ 
+</p>
+
+## Davi Moreira Fuzatto
+- 17y dev backend 
+- recently studying the go language
+- One day I am looking to change the world by developing software!
+- My email contact: davimoreiraf@gmail.com
+- Pronouns: ele/dele
+
+My [Linkedin]("https://www.linkedin.com/in/davi-moreira-fuzatto-924b4b219/") for 💼 stuff 
 
  <div>
   <a href="https://github.com/davimf721">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimf721&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimf721&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimf721&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="davi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="davi-GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-   <img align="center" alt="davi-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  
-  
-</div>
+- Favourites tools:
+<img align="center" alt="davi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="davi-GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+<img align="center" alt="davi-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
   ##
   
