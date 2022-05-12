@@ -32,7 +32,6 @@
     </div>
       
  
-![Snake animation](https://github.com/davimf721/davimf721/blob/output/github-contribution-grid-snake.svg)
  
  
  
