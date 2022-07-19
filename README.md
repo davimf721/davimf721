@@ -25,7 +25,7 @@ My [Linkedin](https://www.linkedin.com/in/davi-moreira-fuzatto-924b4b219/) for ð
 - Favourites tools:
 <img  alt="davi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img  alt="davi-GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-<img  alt="davi-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img  alt="davi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  
 ##
   
