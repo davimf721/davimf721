@@ -23,9 +23,9 @@ My [Linkedin](https://www.linkedin.com/in/davi-moreira-fuzatto-924b4b219/) for ð
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimf721&layout=compact&langs_count=7&theme=dark"/>
 
 - Favourites tools:
-<img  alt="davi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img  alt="davi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img  alt="davi-GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-<img  alt="davi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img  alt="davi-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg">
  
 ##
   
