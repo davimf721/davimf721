@@ -14,7 +14,7 @@
 - recently studying the Java language
 - One day I am looking to change the world by developing software!
 - My email contact: davimoreiraf@gmail.com
-- Pronouns: ele/dele
+- Pronouns: ele/dele(he/him)
 
 My [Linkedin](https://www.linkedin.com/in/davi-moreira-fuzatto-924b4b219/) for 💼 stuff 
 
