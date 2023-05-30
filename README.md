@@ -24,7 +24,7 @@ My [Linkedin](https://www.linkedin.com/in/davi-moreira-fuzatto-924b4b219/) for ð
 
 - Favourites tools:
 <img  alt="davi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img  alt="davi-GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+<img  alt="davi-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
 <img  alt="davi-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg">
  
 ##
