@@ -10,7 +10,7 @@
 </p>
 
 ## Davi Moreira Fuzatto
-- 18y dev backend 
+- 19y dev backend 
 - recently studying the Java and Rust
 - One day I am looking to change the world by developing software!
 - My email contact: davimoreiraf@gmail.com
