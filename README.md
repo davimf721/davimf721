@@ -18,15 +18,20 @@
 
 My [Linkedin](https://www.linkedin.com/in/davi-moreira-fuzatto-924b4b219/) for 💼 stuff 
 
+##
+<br>
 <a href="https://github.com/davimf721"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimf721&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimf721&layout=compact&langs_count=7&theme=dark"/>
 
-- Favourites tools:
-<img  alt="davi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img  alt="davi-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
+<h3> Favourites tools:</h3>
 
-<img  alt="davi-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+<p>
+<img  alt="davi-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img  alt="davi-Rust" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
+<img alt="davi-Rust" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+ 
+<img  alt="davi-SpringBoot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"> </p>
  
 ##
   
