@@ -10,10 +10,10 @@
 </p>
 
 ## Davi Moreira Fuzatto
-- 19y dev backend,
+- 20y dev backend,
 - recently studying the Gaming Development and Java,
 - One day I am looking to change the world by developing software!,
-- My email contact: davimoreiraf@gmail.com,
+- My email contact: davimoreiraf@icloud.com,
 - Pronouns: ele/dele(he/him).
 
 My [Linkedin](https://www.linkedin.com/in/davi-moreira-fuzatto-924b4b219/) for 💼 stuff 
