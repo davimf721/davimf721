@@ -11,7 +11,7 @@
 
 ## Davi Moreira Fuzatto
 - 20y dev backend,
-- recently studying the Gaming Development and Java,
+- recently studying the Quantum Computing and C/C++,
 - One day I am looking to change the world by developing software!,
 - My email contact: davimoreiraf@icloud.com,
 - Pronouns: ele/dele(he/him).
