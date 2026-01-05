@@ -11,9 +11,9 @@
 
 ## Davi Moreira Fuzatto
 - 20y dev backend,
-- recently studying the Javascript/Typescript and Swift,
+- recently studying the C/C++ and Unreal Engine,
 - One day I am looking to change the world by developing software!,
-- My email contact: davimoreiraf@icloud.com,
+- My email contact: davimoreiraf@gmail.com,
 - Pronouns: ele/dele(he/him).
 
 My [Linkedin](https://www.linkedin.com/in/davi-moreira-fuzatto-924b4b219/) for 💼 stuff 
